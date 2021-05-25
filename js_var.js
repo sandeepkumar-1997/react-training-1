@@ -15,4 +15,4 @@ console.log("Sum of the scores: " +sum);
 console.log(sum2);
 console.log(sum3);
 console.log(sum4);
-console.log(car);                               // Value is undefined, type is undefined
+console.log(car);                               // Value is undefined, type is undefined 
