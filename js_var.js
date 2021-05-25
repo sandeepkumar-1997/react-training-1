@@ -7,6 +7,7 @@ let sum = score1 + score2;                     // addition operator (+) adds num
 let sum2 = name + score1;
 let sum3 = score1+ score2 + name;
 let sum4 = name + score1 + score2;
+
 console.log("Name: " +name);
 console.log("String: " +str);
 console.log("First score: " +score1);
